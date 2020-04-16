@@ -1,0 +1,19 @@
+16 Apr 2020, Benjamin Flesch
+
+Wikipedia:
+    Old dataset (2017):    59
+    New dataset (2020):    88
+    -------------------------
+    change:              + 29
+
+Politifacts:
+    Old dataset (2017):    199
+    New dataset (2020):    325
+    -------------------------
+    change:              + 126
+
+OpenSourceGroup:
+    Old dataset (2017):    833
+    New dataset (2020):    824
+    -------------------------
+    change:                - 9
